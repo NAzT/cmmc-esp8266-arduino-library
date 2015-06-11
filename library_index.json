@@ -3,8 +3,8 @@
     {
       "name": "CMMC Audio",
       "version": "1.0.0",
-      "author": "Arduino",
-      "maintainer": "Arduino \u003cinfo@arduino.cc\u003e",
+      "author": "CMMC",
+      "maintainer": "CMMC \u003cinfo@arduino.cc\u003e",
       "sentence": "Allows playing audio files from an SD card. For Arduino DUE only.",
       "paragraph": "With this library you can use the Arduino Due DAC outputs to play audio files.\u003cbr /\u003eThe audio files must be in the raw .wav format.",
       "website": "http://arduino.cc/en/Reference/Audio",
